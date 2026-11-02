@@ -1,3 +1,11 @@
-This is sample workspace I am using to learn git and github.
+# MuskCult
 
-Waiting for second commit
+My personal development repository.
+
+## Technologies
+
+- Python
+- JavaScript
+- Git
+- Next.js
+- React
